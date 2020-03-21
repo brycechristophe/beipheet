@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiteejilai.hacks.chat/sitemap.xml
